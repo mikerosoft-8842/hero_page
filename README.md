@@ -1,4 +1,4 @@
-# Felix Macaspac - Portfolio Website
+# Mike Butler - Hweo Page
 
 A modern, responsive portfolio website built with Next.js and Tailwind CSS.
 
