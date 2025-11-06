@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS.
 
 ## Features
 
-- 🎨 Clean, modern dark theme design
+- 🎨 Clean, classic theme
 - 📱 Fully responsive layout
 - ⚡ Built with Next.js 14 and React 18
 - 🎯 TypeScript for type safety
