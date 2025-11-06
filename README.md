@@ -1,4 +1,4 @@
-# Mike Butler - Hweo Page
+# Mike Butler - Hero Page
 
 A modern, responsive portfolio website built with Next.js and Tailwind CSS.
 
