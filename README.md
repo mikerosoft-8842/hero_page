@@ -94,6 +94,3 @@ Update your personal details in the following components:
 - **PostCSS** - CSS processing
 - **Autoprefixer** - CSS vendor prefixing
 
-## License
-
-© 2025 Felix Macaspac. All rights reserved.
